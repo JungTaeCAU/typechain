@@ -6,9 +6,9 @@
 
 
 
-[link]: https://nomadcoders.co/typescript-for-beginners/lobby
+[link]: https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system/notebook
 
-This Project is based on [NomadCoder][link]
+This Project is based on [Kaggle][link]
 
 
 
